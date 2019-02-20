@@ -157,6 +157,7 @@ const blackList = [
   '@basscode.org',
   '@bauwerke-online.com',
   '@bccto.com',
+  '@bccto.me',
   '@bearsarefuzzy.com',
   '@beddly.com',
   '@beefmilk.com',
